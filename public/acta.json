@@ -1,0 +1,82 @@
+{
+  "documento": "Acta Consejo Escolar N° 2 / 2026",
+  "establecimiento": {
+    "nombre": "Escuela Juanita Zúñiga Fuentes (C.E.I.A. Parral)",
+    "rbd": "3396-0",
+    "direccion": "Calle Igualdad Nº 584, comuna de Parral"
+  },
+  "sesion": {
+    "fecha": "Martes, 12 de mayo del 2026",
+    "hora_inicio": "10:00 hrs",
+    "hora_constitucion": "10:15 hrs",
+    "hora_termino": "11:40 hrs"
+  },
+  "asistentes": [
+    { "nombre": "Juan José Araya Chandía", "cargo": "Director y Presidente del Consejo" },
+    { "nombre": "Juan Marcelo Morales Meza", "cargo": "Sostenedor/Representante Legal - SLEP Los Álamos" },
+    { "nombre": "Omar Enrique Alvial Saldías", "cargo": "Representante de los Docentes" },
+    { "nombre": "Juan Pablo Ramírez Yáñez", "cargo": "Representante de los Asistentes de la Educación y Secretario" },
+    { "nombre": "Abraham Alejandro Arias Fuentes", "cargo": "Presidente del Centro de Alumnos" }
+  ],
+  "invitados": [
+    { "nombre": "Betsabe Macarena González Bustos", "cargo": "Coordinadora PIE" },
+    { "nombre": "María de los Ángeles Canales Amigo", "cargo": "Encargada de Inspectoría General" },
+    { "nombre": "Ingrid Johanna Sepúlveda Fuentes", "cargo": "Encargada Convivencia Educativa" },
+    { "nombre": "Pablo Rodrigo Palma Contreras", "cargo": "Jefe Unidad Técnica Pedagógica" }
+  ],
+  "tabla_contenidos": [
+    "Palabras de Bienvenida",
+    "Presentación Ingresos Estudiantes PIE 2026",
+    "Informe Asistencia, Inasistencias, retiros al 30/04/2026",
+    "Presentación del Protocolo Uso de Dispositivos móviles",
+    "Protocolo Uso de Cámaras de Tele vigilancias",
+    "Otros (Planificación académica, vacante docente y postulación a Consejos Locales)",
+    "Cierre y Conclusiones"
+  ],
+  "desarrollo": [
+    {
+      "titulo": "Apertura y Gestión Administrativa",
+      "contenido": "El Director da la bienvenida destacando el rol del Consejo. El Secretario lee el acta de la primera sesión, validada por unanimidad."
+    },
+    {
+      "titulo": "Gestión de la Inclusión (PIE)",
+      "contenido": "Postulación de 47 estudiantes (DEA, FIL, DI, TEA) con proyección a 52. Se discute la complejidad de requerimientos y se solicita gestión de horas para fonoaudiología."
+    },
+    {
+      "titulo": "Convivencia y Asistencia",
+      "contenido": "Brecha crítica de asistencia en 7°, 8° básico y HC nocturna. Derivaciones activas a redes externas para menores con baja asistencia. Solicitud de flexibilidad en registros al SLEP."
+    },
+    {
+      "titulo": "Protocolo Dispositivos Móviles",
+      "contenido": "Entrega de protocolo para regulación de celulares. El SLEP indica que la normativa para funcionarios debe ir en el Reglamento de Higiene y Seguridad."
+    },
+    {
+      "titulo": "Planificación Académica",
+      "contenido": "Revisión de avances del semestre y eventos próximos: Día de la Educación de Adultos, Aniversario, Fiesta Costumbrista."
+    },
+    {
+      "titulo": "Situación Curricular",
+      "contenido": "Déficit de docente de Artes Visuales. El SLEP se compromete a escalar el requerimiento."
+    },
+    {
+      "titulo": "Consejos Locales",
+      "contenido": "Información sobre postulaciones en mayo y elecciones en octubre para los Consejos Locales de Educación Pública."
+    },
+    {
+      "titulo": "Cámaras de Seguridad",
+      "contenido": "Presentación del protocolo alineado con la ley de privacidad, definiendo zonas de vigilancia y gestión de grabaciones."
+    }
+  ],
+  "acuerdos": [
+    { "id": "01", "descripcion": "Validación y aprobación definitiva del Acta del Primer Consejo Escolar 2026.", "responsable": "Consejo Escolar" },
+    { "id": "02", "descripcion": "Aprobación de la postulación alumnos PIE y proyección de sobrecupo (52 estudiantes).", "responsable": "Dirección / PIE" },
+    { "id": "08", "descripcion": "Aprobación del Protocolo de Uso de Cámaras de Seguridad.", "responsable": "Consejo Escolar" }
+  ],
+  "compromisos": [
+    { "id": "03", "descripcion": "Activar protocolos de retención por asistencia crítica.", "responsable": "Inspectoría / Dupla" },
+    { "id": "04", "descripcion": "Revisión jurídica del Protocolo de Dispositivos Móviles.", "responsable": "Marcelo Morales (SLEP)" },
+    { "id": "05", "descripcion": "Gestionar vacante docente de Artes Visuales.", "responsable": "Marcelo Morales (SLEP)" },
+    { "id": "06", "descripcion": "Consultar certificados de antigüedad laboral.", "responsable": "Marcelo Morales (SLEP)" },
+    { "id": "07", "descripcion": "Informar rediseño de placa institucional.", "responsable": "Marcelo Morales (SLEP)" }
+  ]
+}
