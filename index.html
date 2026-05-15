@@ -78,10 +78,17 @@
                 </div>
             </section>
         </div>
+        <section class="signatures-section card animate delay-3">
+            <h2 class="card-title">Firmas de Asistentes</h2>
+            <div class="section-divider"></div>
+            <div class="signatures-grid" id="signatures-grid"></div>
+        </section>
+
     </main>
 
     <footer>
         <p>&copy; 2026 C.E.I.A. Parral - Todos los derechos reservados.</p>
+        <p class="creator-badge"><i class="fas fa-code"></i> Web creada y diseñada por <strong>Juan Pablo Ramírez Yáñez</strong></p>
     </footer>
 
     <script>
@@ -151,6 +158,18 @@
                             <td>${item.descripcion}</td>
                             <td><strong>${item.responsable}</strong></td>
                         </tr>
+                    `;
+                });
+
+                // Signatures
+                const signaturesGrid = document.getElementById('signatures-grid');
+                data.asistentes.forEach(person => {
+                    signaturesGrid.innerHTML += `
+                        <div class="signature-box">
+                            <div class="signature-line"></div>
+                            <span class="signature-name">${person.nombre}</span>
+                            <span class="signature-role">${person.cargo}</span>
+                        </div>
                     `;
                 });
             })
